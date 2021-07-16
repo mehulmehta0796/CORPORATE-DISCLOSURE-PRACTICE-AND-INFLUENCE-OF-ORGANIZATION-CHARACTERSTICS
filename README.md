@@ -1,4 +1,6 @@
-# CORPORATE-DISCLOSURE-PRACTICE-AND-INFLUENCE-OF-ORGANIZATION-CHARACTERSTICS
+# TITLE: CORPORATE-DISCLOSURE-PRACTICE-AND-INFLUENCE-OF-ORGANIZATION-CHARACTERSTICS
+
+# OBJECTIVE 
 In any country, disclosure of the information is important so as to ensure better corporate governance. In the last few decades, in India, a number of attempts are made by both governmental and non-governmental institution to fortify corporate governance. Corporate disclosure is defined as the disclosure made by an organization voluntarily so as to improve pellucidity in the management of the organization. This research paper is an endeavour to comprehend the impact of the degree of practices in the corporate revelation or disclosure &amp; the impact of organizational characteristics. This research paper reveals that companies with big assets, higher leverage, size, more profitability and inspected by the big audit organization have a propensity to be more lucid and therefore reveal additional data or information. Nevertheless, there are certain factors like company‟s age and residential status that do not have a significant impact on the extent of disclosure by corporates.
 
 # CONCLUSION
